@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>218408983542-il8n9j3f40a6mfii7etovv0meumi18bp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.218408983542-il8n9j3f40a6mfii7etovv0meumi18bp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbzkIeyf26qW9KNfoJrtI8LvZfUqwPEPg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>218408983542</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>random12343.com</string>
+	<key>PROJECT_ID</key>
+	<string>exercise-tracker-13e56</string>
+	<key>STORAGE_BUCKET</key>
+	<string>exercise-tracker-13e56.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:218408983542:ios:e5a586189a1b7bc2e945d7</string>
+	<key>DATABASE_URL</key>
+	<string>https://exercise-tracker-13e56-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
